@@ -49,5 +49,5 @@ If you'd like to view the code or discuss these projects, feel free to reach out
 
 ---
 
->  **Note**: Code for all projects is kept private to maintain API key security and deployment configs. Access can be shared upon request.
+>  **Note**: Code for all projects is kept private to maintain security and deployment configs. Access can be shared upon request.
 
