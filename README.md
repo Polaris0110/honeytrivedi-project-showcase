@@ -31,7 +31,6 @@ Includes cron-based scheduling and form-based user input.
 
 ###  4. Cloud Resume Challenge  
  **Live Demo**: [http://honey-resume.s3-website.ap-south-1.amazonaws.com]
- 
 Deployed resume website built entirely on AWS (S3, Lambda, DynamoDB, CloudFront).  
 Tracks site views via Lambda and logs them to DynamoDB. CI/CD configured with GitHub Actions.
 
