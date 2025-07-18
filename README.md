@@ -22,14 +22,14 @@ Built using React, Firebase, and Firestore. Real-time updates and smooth UX.
 
 ---
 
-###  WhatsApp Reminder Bot  
+### 3. WhatsApp Reminder Bot  
  **Live Demo**: [https://whatsapp-reminder-bot-ashen.vercel.app](https://whatsapp-reminder-bot-ashen.vercel.app)  
 Allows users to schedule WhatsApp messages using a React frontend and a backend powered by Node.js, Express, Firestore, and Twilio API.  
 Includes cron-based scheduling and form-based user input.
 
 ---
 
-###  Cloud Resume Challenge  
+###  4. Cloud Resume Challenge  
  **Live Demo**: http://honey-resume.s3-website.ap-south-1.amazonaws.com 
 Deployed resume website built entirely on AWS (S3, Lambda, DynamoDB, CloudFront).  
 Tracks site views via Lambda and logs them to DynamoDB. CI/CD configured with GitHub Actions.
