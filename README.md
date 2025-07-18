@@ -1,7 +1,7 @@
 # Honey Trivedi – Project Showcase
 
 Welcome! This repository contains links to my deployed full-stack projects.  
-The code for these projects is kept **private** to protect API keys and configurations.  
+The code for these projects is kept **private** to protect configurations.  
 **Access can be granted upon request.**
 
 ---
@@ -31,7 +31,6 @@ Includes cron-based scheduling and form-based user input.
 
 ###  4. Cloud Resume Challenge  
  **Live Demo**: [http://honey-resume.s3-website.ap-south-1.amazonaws.com](http://honey-resume.s3-website.ap-south-1.amazonaws.com)
- 
 Deployed resume website built entirely on AWS (S3, Lambda, DynamoDB, CloudFront).  
 Tracks site views via Lambda and logs them to DynamoDB. CI/CD configured with GitHub Actions.
 
